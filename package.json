@@ -1,0 +1,27 @@
+{
+  "name": "koa2-multipage-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV='dev' node app.js",
+    "qa": "NODE_ENV='qa' node app.js",
+    "yz": "NODE_ENV='yz' node app.js",
+    "prod": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepred5/koa2-multipage-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepred5/koa2-multipage-boilerplate/issues"
+  },
+  "homepage": "https://github.com/deepred5/koa2-multipage-boilerplate#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8"
+  }
+}
