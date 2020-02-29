@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <title><%= title %></title>
+  <%- include('common/header.html'); -%>
+  <link href="<%= bundle['trade-fail.css']%>" rel="stylesheet">
+</head>
+
+<body>
+  <h1><span class="iconfont icon-close-circle fail"></span>fail</h1>
+  <%- include('common/footer.html'); -%>
+  <script src="<%= bundle['trade-fail.js']%>"></script>
+</body>
+</html>

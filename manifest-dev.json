@@ -1,0 +1,14 @@
+{
+  "common.css": "/css/common/common-bundle.css",
+  "common.js": "/js/common/common-bundle.js",
+  "manifest.js": "/js/manifest/manifest-bundle.js",
+  "vendor.js": "/js/vendor/vendor-bundle.js",
+  "home.css": "/css/home/home-bundle.css",
+  "home.js": "/js/home/home-bundle.js",
+  "trade-fail.css": "/css/trade-fail/trade-fail-bundle.css",
+  "trade-fail.js": "/js/trade-fail/trade-fail-bundle.js",
+  "trade-index.css": "/css/trade-index/trade-index-bundle.css",
+  "trade-index.js": "/js/trade-index/trade-index-bundle.js",
+  "trade-success.css": "/css/trade-success/trade-success-bundle.css",
+  "trade-success.js": "/js/trade-success/trade-success-bundle.js"
+}

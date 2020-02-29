@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <title><%= title %></title>
+  <%- include('common/header.html'); -%>
+  <link href="<%= bundle['home.css']%>" rel="stylesheet">
+</head>
+
+<body>
+  <h1 class="title">这是个服务器渲染的页面，但是JS的逻辑，还是在webpack4-boilerplate项目中</h1>
+  <ul class="list-container">
+  <% for(i=0;i<list.length;i++){%>
+  <li><%=list[i].name%></li>
+  <%}%>
+  </ul>
+  <p><a href="/trade">跳转到React项目</a></p>
+  <%- include('common/footer.html'); -%>
+  <script src="<%= bundle['home.js']%>"></script>
+</body>
+</html>
