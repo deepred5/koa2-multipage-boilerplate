@@ -36,3 +36,7 @@ npm i
 npm run dev
 ```
 打开浏览器localhost:8012/即可看见后端渲染的页面。该页面由后端渲染，但是引用的js文件为`webpack4-boilerplate`项目。
+
+
+### 部署
+部署参考本地`dockerfile`和`start.sh`
