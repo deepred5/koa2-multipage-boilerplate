@@ -1,0 +1,20 @@
+{
+  "common.css": "/mc/react/css/common/common-bundle.920b3ff1.css",
+  "common.js": "/mc/react/js/common/common-bundle.8cb8058f.js",
+  "manifest.js": "/mc/react/js/manifest/manifest-bundle.2100d949.js",
+  "vendor.js": "/mc/react/js/vendor/vendor-bundle.057f35a6.js",
+  "home.css": "/mc/react/css/home/home-bundle.d2378378.css",
+  "home.js": "/mc/react/js/home/home-bundle.cb49dfaf.js",
+  "trade-fail.css": "/mc/react/css/trade-fail/trade-fail-bundle.0c74009f.css",
+  "trade-fail.js": "/mc/react/js/trade-fail/trade-fail-bundle.5367518a.js",
+  "trade-index.css": "/mc/react/css/trade-index/trade-index-bundle.f8b9519f.css",
+  "trade-index.js": "/mc/react/js/trade-index/trade-index-bundle.73ddb042.js",
+  "trade-success.css": "/mc/react/css/trade-success/trade-success-bundle.847b9d9b.css",
+  "trade-success.js": "/mc/react/js/trade-success/trade-success-bundle.7f00cbd7.js",
+  "fonts/index.scss": "/mc/react/fonts/iconfont.d8e4ad8.eot",
+  "home/index.html": "/mc/react/home/index.html",
+  "images/girl.jpg": "/mc/react/images/girl.e10ad1c.jpg",
+  "trade-fail/index.html": "/mc/react/trade-fail/index.html",
+  "trade-index/index.html": "/mc/react/trade-index/index.html",
+  "trade-success/index.html": "/mc/react/trade-success/index.html"
+}
